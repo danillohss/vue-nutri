@@ -1,4 +1,4 @@
-# vue-routes
+# vue-nutri
 
 ## Project setup
 ```
